@@ -1,0 +1,19 @@
+
+
+
+
+
+Symbols table:
+
+#    Name                 Value      Type       Const		Entity
+-----------------------------------------------------------------------
+1    i2                   0          int        no 			identifier
+2    j                    true       bool       yes 			identifier
+3    i                    1.00       float      yes 			identifier
+4    k                    6          int        yes 			identifier
+5    bool1                true       bool       no 			identifier
+6    is                   true       bool       no 			identifier
+7    a                    6.00       float      no 			identifier
+8    c_c                  NaN        int        no 			identifier
+9    b                    0          int        no 			identifier
+10   x                    2          int        no 			identifier

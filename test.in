@@ -1,0 +1,55 @@
+INT x,b, b ;
+
+
+INT c_c ;
+FLOAT a,a;
+BOOL is = false , bool1;
+CONST INT k = 6 ;
+CONST FLOAT i = 1;
+CONST BOOL  j = true ;
+INT i2;
+
+
+BEGIN
+
+
+n = x+c ;
+x=x+2;
+/* 
+
+block of comment
+
+*/
+k=k+1;
+x=2;
+c = 1/0 ;
+c_c = 1.2 ; 
+bool1 = 50 ;
+a=5;
+IF ( a == 0 ){
+a=a+1;
+}
+is = true ;
+b = b + c ;
+
+IF (a == 5) {
+
+    IF (b== 2){
+        k=k+1;
+    }
+    ELSE{
+        bool1= true;
+    }
+}
+FOR(i2=0; i<100 ; i=i+1 ){
+    IF (b<= 2){
+        FOR(i2=0; i<100 ; i=i+1 ){
+
+            IF (b<= 2){
+              k=k+1;
+        }
+    }
+    }
+}
+
+END
